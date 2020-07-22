@@ -1,0 +1,9 @@
+.Pagination {
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+}
+
+.Button {
+    margin: 10px;
+}
